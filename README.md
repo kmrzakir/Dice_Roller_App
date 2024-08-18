@@ -41,7 +41,7 @@ Defines color resources used in the app, including:
 #### How to Build and Run
 1. **Clone the repository**:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/kmrzakir/Dice_Roller_App
     ```
 2. **Open the project in Android Studio**.
 3. **Build the project** using the Gradle build system.
