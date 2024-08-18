@@ -56,8 +56,3 @@ Defines color resources used in the app, including:
 - **Modify Button Style**: Update `custom_roll_button.xml` to change the button appearance.
 - **Update Colors**: Edit `colors.xml` to use different colors in the app.
 
-#### License
-Include the license information for your project here.
-
-#### Contact
-Provide contact information or links for further assistance or contributions.
